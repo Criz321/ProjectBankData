@@ -9,3 +9,6 @@ __pycache__/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+#csv files
+cleaned/
