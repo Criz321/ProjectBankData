@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code / Cursor
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
